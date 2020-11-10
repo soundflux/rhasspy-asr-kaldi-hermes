@@ -1,7 +1,7 @@
 # Rhasspy ASR Kaldi Hermes MQTT Service
 
-[![Continous Integration](https://github.com/rhasspy/rhasspy-asr-kaldi-hermes/workflows/Tests/badge.svg)](https://github.com/rhasspy/rhasspy-asr-kaldi-hermes/actions)
-[![GitHub license](https://img.shields.io/github/license/rhasspy/rhasspy-asr-kaldi-hermes.svg)](https://github.com/rhasspy/rhasspy-asr-kaldi-hermes/blob/master/LICENSE)
+![Docker Build/Publish kaldi Armv7 Image](https://github.com/soundflux/rhasspy-asr-kaldi-hermes/workflows/Docker%20Build/Publish%20kaldi%20Armv7%20Image/badge.svg)
+![Build x64 Docker Image](https://github.com/soundflux/rhasspy-asr-kaldi-hermes/workflows/Build%20x64%20Docker%20Image/badge.svg)
 
 Implements `hermes/asr` functionality from [Hermes protocol](https://docs.snips.ai/reference/hermes) using [rhasspy-asr-kaldi](https://github.com/rhasspy/rhasspy-asr-kaldi).
 
